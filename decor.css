@@ -1,0 +1,36 @@
+/* Styles for BMW pages */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+/* For form page */
+.form-page {
+    background-color: #0066b1; /* BMW blue */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* For info page */
+.info-page {
+    background-color: #0066b1; /* BMW blue */
+}
